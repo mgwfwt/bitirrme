@@ -1,0 +1,14 @@
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\bin\Debug\netcoreapp3.1\batuhanbilet.business.deps.json
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\bin\Debug\netcoreapp3.1\batuhanbilet.business.dll
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\bin\Debug\netcoreapp3.1\batuhanbilet.business.pdb
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\bin\Debug\netcoreapp3.1\batuhanbilet.data.dll
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\bin\Debug\netcoreapp3.1\batuhanbilet.entity.dll
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\bin\Debug\netcoreapp3.1\batuhanbilet.data.pdb
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\bin\Debug\netcoreapp3.1\batuhanbilet.entity.pdb
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\obj\Debug\netcoreapp3.1\batuhanbilet.business.csprojAssemblyReference.cache
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\obj\Debug\netcoreapp3.1\batuhanbilet.business.AssemblyInfoInputs.cache
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\obj\Debug\netcoreapp3.1\batuhanbilet.business.AssemblyInfo.cs
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\obj\Debug\netcoreapp3.1\batuhanbilet.business.csproj.CoreCompileInputs.cache
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\obj\Debug\netcoreapp3.1\batuhanbilet.business.csproj.CopyComplete
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\obj\Debug\netcoreapp3.1\batuhanbilet.business.dll
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.business\obj\Debug\netcoreapp3.1\batuhanbilet.business.pdb

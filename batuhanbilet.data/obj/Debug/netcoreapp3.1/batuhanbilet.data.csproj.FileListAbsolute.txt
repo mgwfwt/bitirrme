@@ -1,0 +1,15 @@
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\bin\Debug\netcoreapp3.1\batuhanbilet.data.deps.json
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\bin\Debug\netcoreapp3.1\batuhanbilet.data.runtimeconfig.json
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\bin\Debug\netcoreapp3.1\batuhanbilet.data.runtimeconfig.dev.json
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\bin\Debug\netcoreapp3.1\batuhanbilet.data.dll
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\bin\Debug\netcoreapp3.1\batuhanbilet.data.pdb
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\bin\Debug\netcoreapp3.1\batuhanbilet.entity.dll
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\bin\Debug\netcoreapp3.1\batuhanbilet.entity.pdb
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\obj\Debug\netcoreapp3.1\batuhanbilet.data.csprojAssemblyReference.cache
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\obj\Debug\netcoreapp3.1\batuhanbilet.data.AssemblyInfoInputs.cache
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\obj\Debug\netcoreapp3.1\batuhanbilet.data.AssemblyInfo.cs
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\obj\Debug\netcoreapp3.1\batuhanbilet.data.csproj.CoreCompileInputs.cache
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\obj\Debug\netcoreapp3.1\batuhanbilet.data.csproj.CopyComplete
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\obj\Debug\netcoreapp3.1\batuhanbilet.data.dll
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\obj\Debug\netcoreapp3.1\batuhanbilet.data.pdb
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.data\obj\Debug\netcoreapp3.1\batuhanbilet.data.genruntimeconfig.cache

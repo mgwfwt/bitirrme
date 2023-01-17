@@ -1,0 +1,9 @@
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.entity\bin\Debug\netcoreapp3.1\batuhanbilet.entity.deps.json
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.entity\bin\Debug\netcoreapp3.1\batuhanbilet.entity.dll
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.entity\bin\Debug\netcoreapp3.1\batuhanbilet.entity.pdb
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.entity\obj\Debug\netcoreapp3.1\batuhanbilet.entity.AssemblyInfoInputs.cache
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.entity\obj\Debug\netcoreapp3.1\batuhanbilet.entity.AssemblyInfo.cs
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.entity\obj\Debug\netcoreapp3.1\batuhanbilet.entity.csproj.CoreCompileInputs.cache
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.entity\obj\Debug\netcoreapp3.1\batuhanbilet.entity.dll
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.entity\obj\Debug\netcoreapp3.1\batuhanbilet.entity.pdb
+C:\Users\batuhanh\Desktop\batuhanbilet\batuhanbilet.entity\obj\Debug\netcoreapp3.1\batuhanbilet.entity.csprojAssemblyReference.cache
